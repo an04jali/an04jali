@@ -52,4 +52,25 @@
 ---
 [![](https://komarev.com/ghpvc/?username=an04jali&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN_ID](https://www.linkedin.com/in/aarti-singh-355b7b1a3/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/an04jali)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarti.singhh1518@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you're into LLMs, Agentic Systems & Automation — Let's Connect!**
+> 🔍 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.  
+> Always open to collaborations and learning opportunities!
+
+</div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
