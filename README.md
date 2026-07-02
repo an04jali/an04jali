@@ -37,15 +37,28 @@
 
 ## 🚀 Featured Projects
 ⚡ AI-Powered DSA Instructor Chatbot(https://github.com/an04jali/chatbot-genai)
+live: https://cybernova-ai-tysk.vercel.app/
 
-  -LLM-based learning assistant for Data Structures & Algorithms
-
-  -Step-by-step DSA explanations + quiz-based learning
-  -Reduced irrelevant responses to <0.1% using prompt guardrails
-  -Achieved sub-2s latency with Groq API integration
-  -Stable across 200+ test queries with secure API handling
+  -🚀 Developed CyberNova AI, a production-ready AI SaaS platform serving multiple Generative AI use cases.
+💡 Integrated LLM APIs for content generation, image creation, resume review, and AI image processing.
+🔒 Designed a secure, responsive full-stack architecture using Clerk, React, Express, and MongoDB.
+☁️ Deployed the application with modern cloud services, delivering a seamless user experience.
   
-  -Tech: Python, Streamlit, Groq API, LLMs
+  -Tech: ### 🛠️ Tech Stack
+
+**Frontend:** React.js, React Router, JavaScript, CSS, Vite
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** MongoDB, Mongoose
+
+**Authentication:** Clerk
+
+**AI & APIs:** Groq API (Llama 3), Hugging Face Inference API, Generative AI APIs
+
+**Deployment:** Vercel, Render
+
+**Tools:** Git, GitHub, Postman
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=an04jali&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
