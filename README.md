@@ -13,7 +13,7 @@
 </div>
 
 
-# 💫 About Me:
+
 ## 👩‍💻 About Me
 
 🔭 I'm currently working on Machine Learning projects while building AI-powered Full Stack applications.
