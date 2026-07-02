@@ -14,7 +14,19 @@
 
 
 # 💫 About Me:
-## 👩‍💻 About Me<br><br>🔭 I'm currently working on **Machine Learning projects** while building **AI-powered Full Stack applications**<br><br>🤝 I'm looking to collaborate on **Open Source, AI/ML, MERN Stack, and Full Stack projects**<br><br>💼 I've worked as a **Freelance Frontend Developer**, building a responsive appointment booking system for a healthcare client using **React.js**<br><br>🌱 I'm currently learning **Machine Learning, Advanced Backend Development, AWS**<br><br>💬 Ask me about **React, Node.js, Express, MongoDB, Python, REST APIs, DSA, and Generative AI**<br><br>⚡ Fun fact: **I enjoy turning ideas into real-world products—from AI SaaS apps to ML projects—and I'm always learning something new.**
+## 👩‍💻 About Me
+
+🔭 I'm currently working on Machine Learning projects while building AI-powered Full Stack applications.
+
+🤝 I'm looking to collaborate on Open Source, AI/ML, MERN Stack, and Full Stack projects.
+
+💼 I've worked as a Freelance Frontend Developer, building a responsive appointment booking system for a healthcare client using React.js.
+
+🌱 I'm currently learning Machine Learning, Advanced Backend Development, and AWS.
+
+💬 Ask me about React, Node.js, Express, MongoDB, Python, REST APIs, DSA, and Generative AI.
+
+⚡ Fun fact: I enjoy turning ideas into real-world products—from AI SaaS apps to ML projects—and I'm always learning something new.
 
 
 ## 🌐 Socials:
